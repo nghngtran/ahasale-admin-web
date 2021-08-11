@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ahasale-admin-web/static/css/main.a617e044.chunk.css",
-    "main.js": "/ahasale-admin-web/static/js/main.01b8dd98.chunk.js",
-    "main.js.map": "/ahasale-admin-web/static/js/main.01b8dd98.chunk.js.map",
+    "main.js": "/ahasale-admin-web/static/js/main.d7598f9b.chunk.js",
+    "main.js.map": "/ahasale-admin-web/static/js/main.d7598f9b.chunk.js.map",
     "runtime-main.js": "/ahasale-admin-web/static/js/runtime-main.fc363126.js",
     "runtime-main.js.map": "/ahasale-admin-web/static/js/runtime-main.fc363126.js.map",
     "static/js/2.ca0b2518.chunk.js": "/ahasale-admin-web/static/js/2.ca0b2518.chunk.js",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.fc363126.js",
     "static/js/2.ca0b2518.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.01b8dd98.chunk.js"
+    "static/js/main.d7598f9b.chunk.js"
   ]
 }
