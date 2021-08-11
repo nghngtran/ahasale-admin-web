@@ -9,8 +9,8 @@ const styles = ({ spacing, breakpoints }: Theme) =>
       [breakpoints.down(960)]: {
         backgroundImage: "none",
       },
-      [breakpoints.up(1024)]: {
-        backgroundSize: "contain",
+      [breakpoints.down(1024)]: {
+        backgroundSize: "cover",
       },
       [breakpoints.between("lg", 1500)]: {
         backgroundSize: "cover",
