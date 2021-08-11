@@ -32,7 +32,7 @@ function App() {
               <Switch>
                 <Route path="/login" component={Login} />
                 <Route path="/dashboard" component={Report} />
-                <Route exact path="/" component={Home} />
+                <Route exact path="/ahasale-admin-web" component={Home} />
               </Switch>
             </Router>
           </Suspense>
